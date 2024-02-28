@@ -11,3 +11,8 @@ function dummy2()
 {
     console.log("dummy2 function");
 }
+
+function dummy()
+{
+    console.log("dummy function");
+}
