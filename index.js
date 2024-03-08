@@ -11,3 +11,5 @@ function dummy()
 {
     console.log("dummy function");
 }
+
+var identicalCommit;
